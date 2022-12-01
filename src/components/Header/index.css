@@ -1,0 +1,42 @@
+/* Write your CSS code here */
+.app-container {
+  padding: 10px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.nav-bar-img {
+  width: 40px;
+  height: 40px;
+}
+.logo-label {
+  color: #551e53;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto';
+  /* border: 1px solid red; */
+}
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20%;
+}
+li {
+  list-style-type: none;
+  text-decoration: none;
+  color: #551e53;
+}
+.link {
+  text-decoration: none;
+  cursor: pointer;
+  color: #12022f;
+  font-weight: bold;
+}

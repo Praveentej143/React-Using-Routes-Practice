@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.not-found-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  font-family: 'Roboto';
+}
+.not-found-img {
+  width: 15%;
+}
+.not-found {
+  color: #6d396b;
+}

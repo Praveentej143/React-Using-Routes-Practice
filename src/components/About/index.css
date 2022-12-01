@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.about-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 80vh;
+  font-family: 'Roboto';
+}
+.about-img {
+  width: 15%;
+}
+.about {
+  color: #6d396b;
+}
+.about-desc {
+  color: #555555;
+}
